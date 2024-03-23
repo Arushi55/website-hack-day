@@ -1,0 +1,20 @@
+#body {
+    background: #D5EFF1;
+}
+.nav-bar {
+    background: #D9D9D9;
+    width: 100rem;
+    height: 8.5625rem;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2{
+    color: #000;
+    font-family: Inter;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
